@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*section {
+    text-align: center;
+}
+
+.container {
+    max-width: 350px;
+}
+
+.main-div {
+    text-align: center;
+    margin-top: 10%;
+    width: 100%;
+}
+
+.main-div {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin: 0;
+    padding: 20px;
+    border: none;
+    width: 48px;
+    height: 48px;
+
+}
+
+.display input {
+    width: 63%;
+    padding: 10px;
+}
+
+.main-div .div-one,
+.div-two,
+.div-three,
+.div-four,
+.div-five {
+    text-align: center;
+}
+
+.div-one button {
+    background-color: rgb(148, 180, 178);
+}
+
+.div-two button {
+    background-color: #fff;
+}
+
+.div-three button {
+    background-color: #fff;
+}
+
+.div-four button {
+    background-color: #fff;
+}
+
+.div-five button {
+    background-color: #fff;
+}
+
+.cavab {
+    background-color: rgb(189, 63, 0) !important;
+}*/
+.main-div {
+    text-align: center;
+}
+section{
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 7%;
+}
+
+table {
+    text-align: center;
+border: 1px solid black;
+}
+
+td {
+ 
+    border: 1px solid black;
+}
+
+.emliyyatlar td{
+    background-color: rgb(191, 186, 180);
+}
+
+.reqem{
+    background-color: #fff;
+}
+
+.beraber{
+    background-color: rgb(208, 112, 22);
+}
+
+button{
+    padding: 20px;
+    border: none;
+    background: none;
